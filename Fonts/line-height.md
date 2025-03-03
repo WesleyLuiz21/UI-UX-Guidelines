@@ -50,6 +50,10 @@
 - **Lowecase**:
     - For general text
 
+## Letter spacing
+
+- Letter spacing in 0px normally resolve all problems
+
 ## Good Fonts
 
 - Work Sans
