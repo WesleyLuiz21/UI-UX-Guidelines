@@ -30,9 +30,27 @@
 - 2 x imgs with text
 
 ![alt text](image-3.png)
+![alt text](image-4.png)
+- Better version
 - Simpler topics
 
-# Good Fonts
+![alt text](image-6.png)
+- Styling even more with custom icons or **bullet points**
+
+## Uppercase and Lowecase
+
+![alt text](image-7.png)
+![alt text](image-8.png)
+
+- **Uppercase**:
+     - for shorter text or `call to action btns`
+     - For `big Titles`
+        - Use less **letter space**
+    - for `pre-titles` **with letter space**
+- **Lowecase**:
+    - For general text
+
+## Good Fonts
 
 - Work Sans
 - Roboto
