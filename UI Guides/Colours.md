@@ -46,6 +46,13 @@
 - 30% White
 - 10% Black?
 
+## Colours can also be used in the heading
+![alt text](image-23.png)
+- the green gives a great contrast
+
+## Icons
+
+![alt text](image-24.png)
 
 ## Inspiration
 
