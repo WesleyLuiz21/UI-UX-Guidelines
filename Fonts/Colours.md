@@ -22,3 +22,20 @@
 
 ![alt text](image-18.png)
 -How to fix these errors
+
+- [Colour contrast checker website](https://coolors.co/contrast-checker/112a46-acc8e5)
+
+
+## Colours Hhierarchy
+
+- Method 60 - 30 - 10
+    - 60% main colour
+    - 30% secondary colour
+    - 10% Hightligh colour
+        - brand colour, use to highligh elements
+
+- 60% Purple
+- 30% White
+- 10% Black?
+
+
