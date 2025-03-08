@@ -31,11 +31,23 @@
 - Method 60 - 30 - 10
     - 60% main colour
     - 30% secondary colour
+        - for cards?
+        - for sections
+        - can vary or have two options
     - 10% Hightligh colour
         - brand colour, use to highligh elements
+        - for CTA 
+        - for img backgrounds
+        - to highlight a phrase or words
+    - Extra Colors:
+        - Extra colors like shades of gray can be use sometimes
 
 - 60% Purple
 - 30% White
 - 10% Black?
 
 
+## Inspiration
+
+![alt text](image-19.png)
+[Online Palette](https://www.onlinepalette.com/)
