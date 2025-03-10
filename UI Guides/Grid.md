@@ -10,3 +10,5 @@
 
 - Spacing is divided in 4x parts
 - using multiples of `8px`
+
+[Law of Proximity](https://lawsofux.com/law-of-proximity/)
